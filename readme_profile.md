@@ -13,7 +13,7 @@ const anshukman = {
   university: "Shiv Nadar University, Chennai",
   major: "B.Tech Computer Science (IoT)",
   passionateAbout: ["Machine Learning", "GenAI", "Full-Stack Engineering", "Product-Minded Development"],
-  currentFocus: "Executing an 8-Phase, 8-Month ML/AI specialization plan (see below!)"
+  currentFocus: "Executing an 8-Month ML/AI specialization plan"
 }
 ```
 
@@ -32,27 +32,13 @@ This is the T-shaped foundation of my knowledge, organized by focus area.
 
 | Category | Skills |
 |----------|--------|
-| **AI & Machine Learning** | Python, Scikit-learn, RAG, LangChain, (Learning: PyTorch, TensorFlow) |
-| **Backend & Data** | FastAPI, Java, Node.js, Express.js, MongoDB, SQL |
+| **AI & Machine Learning** | Python, Scikit-learn |
+| **Backend & Data** | FastAPI, Node.js, Express.js, MongoDB, SQL |
 | **Cloud & DevOps** | Google Cloud Platform (GCP), GitHub, Git |
 | **Frontend** | React.js, HTML, CSS, JavaScript |
 | **Product & Design** | Agile Project Management (Google Certified), UX/UI Design (Microsoft Certified) |
-| **Core** | Data Structures & Algorithms (C, Java), NPTEL Core CS, Object-Oriented Programming (OOP) |
+| **Core** | Data Structures & Algorithms, NPTEL Object-Oriented Programming (OOP) |
 
-## 📚 Additional Learning (On Hold)
-
-This is a professional certificate I started, and I may return to it after completing my primary ML goals.
-
-**Meta Front-End Developer Professional Certificate**
-- ✅ Course 1: Introduction to Front-End Development
-- ✅ Course 2: Programming with JavaScript
-- ✅ Course 3: Version Control
-- ⏸️ Course 4: HTML and CSS in depth
-- ⏸️ Course 5: React Basics
-- ⏸️ Course 6: Advanced React
-- ⏸️ Course 7: Principles of UX/UI Design
-- ⏸️ Course 8: Front-End Developer Capstone
-- ⏸️ Course 9: Coding Interview Preparation
 
 ---
 
