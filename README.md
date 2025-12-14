@@ -27,6 +27,7 @@ This is the T-shaped foundation of my knowledge, organized by focus area.
 | **GenAI & Data** | • IBM Generative AI: Introduction and Applications<br>• IBM Generative AI: Prompt Engineering Basics<br>• Finlatics Data Science with Python |
 | **Cloud & Infra** | • Google Cloud: API Gateway, Cloud Vision API, Dataplex, Foundations, Networking, Looker, Pub/Sub<br>• NPTEL PSOSM |
 | **Core & Full-Stack** | • NPTEL Object-Oriented Programming with Java<br>• Meta Foundational Courses (Intro to Front-End, JavaScript, Version Control) |
+| **ML & DL** | • Stanford University Machine Learning Speciliazation<br>• Deep Learning.ai Neural Networks<br> |
 
 ## 🛠️ My Tech Stack & Core Competencies
 
