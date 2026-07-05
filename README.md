@@ -40,7 +40,7 @@ const anshukman = {
 
 ---
 
-# Projects
+## Projects
 
 | Project | Stack | Description |
 |---|---|---|
